@@ -1,0 +1,68 @@
+2020-04-22 15:36:36,867 INFO: Current version is 1.3.2
+2020-04-22 15:36:36,867 INFO: {'action': 'check', 'projectId': None, 'config': 'config.yaml', 'project': 'C:\\Users\\Qiang\\Downloads\\2DPlatformer-SLua-master-2018', 'platform': 'Android', 'groupReportByAsset': False, 'groupReportByRule': False, 'logFile': 'C:\\Users\\Qiang\\Downloads\\2DPlatformer-SLua-master-2018\\log.txt'}
+2020-04-22 15:36:36,868 WARNING: No project id provided, report will not be uploaded to upr server
+2020-04-22 15:36:36,939 INFO: Loading assets...
+2020-04-22 15:36:40,931 INFO: 3 AnimationController assets loaded
+2020-04-22 15:36:40,931 INFO: 30 Animation assets loaded
+2020-04-22 15:36:40,931 INFO: 27 Audio assets loaded
+2020-04-22 15:36:40,932 INFO: 32 Prefab assets loaded
+2020-04-22 15:36:40,932 INFO: 11 Scene assets loaded
+2020-04-22 15:36:40,932 INFO: 90 Script assets loaded
+2020-04-22 15:36:40,933 INFO: 1 Shader assets loaded
+2020-04-22 15:36:40,933 INFO: 48 Texture assets loaded
+2020-04-22 15:36:40,933 INFO: Checking assets...
+2020-04-22 15:36:49,722 INFO: Please upload assetcheck_result.json on upr website
+2020-04-22 15:36:49,723 INFO: Saving report locally...
+2020-04-22 15:36:49,792 INFO: Report by rule saved to rule_report.yaml
+2020-04-22 15:36:49,792 DEBUG: processing duration: 12.928237199783325
+2020-04-22 15:42:06,212 INFO: Current version is 1.3.2
+2020-04-22 15:42:06,212 INFO: {'action': 'check', 'projectId': None, 'config': 'config.yaml', 'project': 'C:\\Users\\Qiang\\Downloads\\2DPlatformer-SLua-master-2018', 'platform': 'Android', 'groupReportByAsset': False, 'groupReportByRule': False, 'logFile': 'C:\\Users\\Qiang\\Downloads\\2DPlatformer-SLua-master-2018\\log.txt'}
+2020-04-22 15:42:06,214 WARNING: No project id provided, report will not be uploaded to upr server
+2020-04-22 15:42:06,285 INFO: Loading assets...
+2020-04-22 15:42:10,189 INFO: 3 AnimationController assets loaded
+2020-04-22 15:42:10,190 INFO: 30 Animation assets loaded
+2020-04-22 15:42:10,190 INFO: 27 Audio assets loaded
+2020-04-22 15:42:10,192 INFO: 32 Prefab assets loaded
+2020-04-22 15:42:10,192 INFO: 11 Scene assets loaded
+2020-04-22 15:42:10,192 INFO: 90 Script assets loaded
+2020-04-22 15:42:10,194 INFO: 1 Shader assets loaded
+2020-04-22 15:42:10,195 INFO: 42 Texture assets loaded
+2020-04-22 15:42:10,195 INFO: Checking assets...
+2020-04-22 15:42:17,418 INFO: Please upload assetcheck_result.json on upr website
+2020-04-22 15:42:17,419 INFO: Saving report locally...
+2020-04-22 15:42:17,470 INFO: Report by rule saved to rule_report.yaml
+2020-04-22 15:42:17,470 DEBUG: processing duration: 11.260588645935059
+2020-04-22 15:45:57,727 INFO: Current version is 1.3.2
+2020-04-22 15:45:57,727 INFO: {'action': 'check', 'projectId': None, 'config': 'config.yaml', 'project': 'C:\\Users\\Qiang\\Downloads\\2DPlatformer-SLua-master-2018', 'platform': 'Android', 'groupReportByAsset': False, 'groupReportByRule': False, 'logFile': 'C:\\Users\\Qiang\\Downloads\\2DPlatformer-SLua-master-2018\\log.txt'}
+2020-04-22 15:45:57,728 WARNING: No project id provided, report will not be uploaded to upr server
+2020-04-22 15:45:57,798 INFO: Loading assets...
+2020-04-22 15:46:01,668 INFO: 3 AnimationController assets loaded
+2020-04-22 15:46:01,668 INFO: 30 Animation assets loaded
+2020-04-22 15:46:01,669 INFO: 27 Audio assets loaded
+2020-04-22 15:46:01,669 INFO: 32 Prefab assets loaded
+2020-04-22 15:46:01,670 INFO: 11 Scene assets loaded
+2020-04-22 15:46:01,673 INFO: 90 Script assets loaded
+2020-04-22 15:46:01,674 INFO: 1 Shader assets loaded
+2020-04-22 15:46:01,674 INFO: 48 Texture assets loaded
+2020-04-22 15:46:01,674 INFO: Checking assets...
+2020-04-22 15:46:09,905 INFO: Please upload assetcheck_result.json on upr website
+2020-04-22 15:46:09,906 INFO: Saving report locally...
+2020-04-22 15:46:09,952 INFO: Report by rule saved to rule_report.yaml
+2020-04-22 15:46:09,952 DEBUG: processing duration: 12.228399991989136
+2020-04-22 15:46:38,439 INFO: Current version is 1.3.2
+2020-04-22 15:46:38,439 INFO: {'action': 'check', 'projectId': None, 'config': 'config.yaml', 'project': 'C:\\Users\\Qiang\\Downloads\\2DPlatformer-SLua-master-2018', 'platform': 'Android', 'groupReportByAsset': False, 'groupReportByRule': False, 'logFile': 'C:\\Users\\Qiang\\Downloads\\2DPlatformer-SLua-master-2018\\log.txt'}
+2020-04-22 15:46:38,441 WARNING: No project id provided, report will not be uploaded to upr server
+2020-04-22 15:46:38,510 INFO: Loading assets...
+2020-04-22 15:46:42,573 INFO: 3 AnimationController assets loaded
+2020-04-22 15:46:42,574 INFO: 30 Animation assets loaded
+2020-04-22 15:46:42,581 INFO: 27 Audio assets loaded
+2020-04-22 15:46:42,583 INFO: 32 Prefab assets loaded
+2020-04-22 15:46:42,583 INFO: 11 Scene assets loaded
+2020-04-22 15:46:42,584 INFO: 90 Script assets loaded
+2020-04-22 15:46:42,584 INFO: 1 Shader assets loaded
+2020-04-22 15:46:42,584 INFO: 48 Texture assets loaded
+2020-04-22 15:46:42,585 INFO: Checking assets...
+2020-04-22 15:46:51,494 INFO: Please upload assetcheck_result.json on upr website
+2020-04-22 15:46:51,496 INFO: Saving report locally...
+2020-04-22 15:46:51,567 INFO: Report by rule saved to rule_report.yaml
+2020-04-22 15:46:51,568 DEBUG: processing duration: 13.132057905197144

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/spine-demo.unity
+    guid: 4ec45e25ad827d543b8cf4089bd59665
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelStart.unity
+    guid: 270490a52fa994355831c7a4f083b024
+  - enabled: 1
+    path: Assets/Game/Scenes/Level.unity
+    guid: 69575e6f2904c4c7dafafe28c5ec7068
+  m_configObjects: {}
